@@ -13,7 +13,7 @@ def load_langgraph_agenticai_app():
 
     """
 
-    ##Load UI
+    ##Load UI##
     ui=LoadStreamlitUI()
     user_input=ui.load_streamlit_ui()
 
